@@ -1,3 +1,0 @@
-"""
-CSV Anomaly Detection Microservice
-""" 
