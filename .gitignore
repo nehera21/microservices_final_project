@@ -1,0 +1,10 @@
+.env/
+.venv/
+uv.lock
+data/
+*.csv
+*.json
+*.log
+*.yml
+*.yaml
+*.md
